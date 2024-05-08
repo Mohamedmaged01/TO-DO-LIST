@@ -1,0 +1,21 @@
+.card {
+  border: 2px solid black;
+  border-radius: 10px;
+  box-shadow: 5px 5px;
+  padding: 20px;
+  max-width: fit-content;
+  max-height: fit-content;
+  display: inline-block;
+  justify-content: space-between;
+  margin: 10px;
+}
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  color: chocolate;
+}
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.3rem;
+  color: rgb(61, 95, 129);
+}
